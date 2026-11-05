@@ -2,7 +2,7 @@
 
 Control an **A\*\*Z\*\*e** zoned HVAC system from your phone, at home and away, without paying for the manufacturer's cloud plan.
 
-Website: **https://warmhole.dev** ¬∑ [Get started](https://warmhole.dev/start) ¬∑ [How it works](https://warmhole.dev/technical-solution) ¬∑ [The problem](https://warmhole.dev/the-problem)
+Website: **https://warmhole.dev** | [Get started](https://warmhole.dev/start) | [How it works](https://warmhole.dev/technical-solution) | [The problem](https://warmhole.dev/the-problem)
 
 > Personal, **unofficial** project. Not affiliated with or endorsed by the manufacturer. It uses the manufacturer's
 > publicly documented cloud API and may stop working at any time. It is probably not in line with the manufacturer's
@@ -46,7 +46,7 @@ phone  ->  warmhole.dev  ->  box at home  ->  manufacturer's cloud
 Free public beta. It is built and run by one person in their spare time, so expect rough edges.
 
 - Start here: [Get started](https://warmhole.dev/start) (buy the box, install, set up, sign in).
-- [Beta terms](https://warmhole.dev/terms) ¬∑ [Privacy](https://warmhole.dev/privacy)
+- [Beta terms](https://warmhole.dev/terms) | [Privacy](https://warmhole.dev/privacy)
 - Questions, bugs, security issues or account deletion: [Contact](https://warmhole.dev/contact).
 
 ## Common questions
@@ -61,4 +61,3 @@ box can be asked to do. Read the details on the [Privacy](https://warmhole.dev/p
 **Can the manufacturer block it?** Yes, at any time. It is an unofficial project.
 
 **Is the source code available?** Not at the moment. This repository only describes the project.
-
