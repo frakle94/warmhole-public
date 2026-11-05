@@ -9,9 +9,9 @@ Website: **https://warmhole.dev** | [Get started](https://warmhole.dev/start) | 
 > terms of use: use it at your own risk, for your own home.
 
 <p align="center">
-  <img src="docs/rooms.png" alt="Rooms: system mode and one card per room with temperature, humidity and setpoint" width="300">
+  <img src="rooms.png" alt="Rooms: system mode and one card per room with temperature, humidity and setpoint" width="300">
   &nbsp;&nbsp;
-  <img src="docs/schedules.png" alt="Schedules: weekly schedules with time, days, room and action" width="300">
+  <img src="schedules.png" alt="Schedules: weekly schedules with time, days, room and action" width="300">
 </p>
 
 ## The problem
